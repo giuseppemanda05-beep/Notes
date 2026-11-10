@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Notes by Peppe",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "NbP",
+  "start_url": "/",
+  "theme_color": "#f07a94",
+  "id": "Notes by Peppe",
+  "description": "Notes fatte da Peppe (e gemini)"
+}
